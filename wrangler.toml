@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "astro-v5-blog-starter"
+name = "cf-astro-blog-dev"
 compatibility_date = "2024-12-25"
 pages_build_output_dir = "./dist"
 
